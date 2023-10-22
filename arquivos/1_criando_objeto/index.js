@@ -1,0 +1,14 @@
+let carro = {
+ portas: 4,
+ cor: "vermelho"
+}
+
+console.log(carro)
+console.log(typeof carro)
+console.log(carro)
+
+let pessoa = {
+    nome: "Selma"
+}
+
+console.log(pessoa)
